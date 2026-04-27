@@ -1,7 +1,6 @@
 # 👋 Hello, I'm [CanL7]! 👨‍💻
 
-## 📊 Visitor Count
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=CanL7)
+## 📊 Visitor Count ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=CanL7)
 
 ## 🚀 About Me
 - 👀 I'm interested in **Software Development** and **Technology Innovation**
@@ -23,7 +22,7 @@
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-enabled-red)
 ![GitHub](https://img.shields.io/badge/GitHub-actions-blue)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-2023.3+-blue?logo=intellij-idea)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-2025.3+-blue?logo=intellij-idea)
 ![VS Code](https://img.shields.io/badge/VS%20Code-recommended-blue)
 
 ## 📈 GitHub Stats
@@ -38,6 +37,3 @@
 - 📧 **CanL7@outlook.com**
 - 🌐 [Blog](http://www.blog-work/)
 
----
-
-⭐️ From [Your Name](https://github.com/CanL7)
