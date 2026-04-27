@@ -33,7 +33,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CanL7&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📫 Connect With Me
-- 📧 **CanL7@outlook.com**
-- 🌐 [Blog](http://www.blog-work/)
 
