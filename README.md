@@ -3,8 +3,8 @@
 ## 📊 Visitor Count ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=CanL7)
 
 ## 🚀 About Me
-- 👀 I'm interested in **Software Development** and **Technology Innovation**
-- 🌱 I'm currently learning **Spring Boot** and **MyBatis**
+- 🏫 Student at Chongqing University of Technology  
+- 💻 Freshman, Major in Computer Science and Technology 
 - 📫 How to reach me: [my blog](https://www.canl-blog.top/)
 
 ## 🛠️ Tech Stack
