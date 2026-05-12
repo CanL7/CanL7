@@ -11,8 +11,6 @@
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-17-red)
-![C](https://img.shields.io/badge/C-11/17/23-blue)
-![C++](https://img.shields.io/badge/C++-11/14/17/20/23-blue)
 ![Python](https://img.shields.io/badge/Python-3.8+-brightgreen)
 
 ### Frameworks & Libraries
