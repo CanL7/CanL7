@@ -25,10 +25,8 @@
 
 ## 📈 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CanL7&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?CanL7=Pranesh-2005&show_icons=true&bg_color=00000000)
 
 ## 🏆 Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CanL7&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?CanL7=Pranesh-2005&bg_color=00000000)](https://github.com/Pranesh-2005/github-readme-stats)
