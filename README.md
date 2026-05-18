@@ -27,6 +27,9 @@
 
 ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=CanL7&show_icons=true&bg_color=00000000)
 
+<!--
 ## 🏆 Top Languages
 
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CanL7&bg_color=00000000)](https://github.com/Pranesh-2005/github-readme-stats)
+
+-->
