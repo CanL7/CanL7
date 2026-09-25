@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [CanL7]! 👨‍💻
+# 👋 This is [CanL]! 👨‍💻
 
 ## 📊 Visitor Count ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=CanL7)
 
